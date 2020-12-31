@@ -1,5 +1,5 @@
 # Week 3's JavaScript Challenge: Password Generator
-- create an application that an employee can use to generate a random password based on criteria they’ve selected.
+create an application that an employee can use to generate a random password based on criteria they’ve selected.
 
 ## User Story
 ```
