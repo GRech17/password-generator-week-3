@@ -1,14 +1,14 @@
 # Week 3's challenge
 
--This week’s Challenge requires you to create an application that an employee can use to generate a random password based on criteria they’ve selected.
+- This week’s Challenge requires you to create an application that an employee can use to generate a random password based on criteria they’ve selected.
 
-#User Story
--AS AN employee with access to sensitive data
+# User Story
+- AS AN employee with access to sensitive data
 I WANT to randomly generate a password that meets certain criteria
 SO THAT I can create a strong password that provides greater security
 
-#Acceptance Criteria
--GIVEN I need a new, secure password
+# Acceptance Criteria
+- GIVEN I need a new, secure password
 WHEN I click the button to generate a password
 THEN I am presented with a series of prompts for password criteria
 WHEN prompted for password criteria
@@ -24,8 +24,8 @@ THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
-#Mock up/Starter Code
-https://courses.bootcampspot.com/courses/469/files/357798/preview
+# Mock up/Starter Code
+- https://courses.bootcampspot.com/courses/469/files/357798/preview
 
-https://github.com/coding-boot-camp/friendly-parakeet
+- https://github.com/coding-boot-camp/friendly-parakeet
 
