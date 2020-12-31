@@ -1,5 +1,5 @@
 # Week 3's JavaScript Challenge: Password Generator
-- create an application that an employee can use to generate a random password based on criteria they’ve selected.
+Create an application that an employee can use to generate a random password based on criteria they’ve selected.
 
 ## User Story
 ```
@@ -32,7 +32,7 @@ THEN the password is either displayed in an alert or written to the page
 
 - https://github.com/coding-boot-camp/friendly-parakeet
 
-## Finished Product
+# Finished Product
 [Password Generator]
 
 
