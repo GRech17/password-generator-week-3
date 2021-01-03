@@ -33,7 +33,7 @@ THEN the password is either displayed in an alert or written to the page
 - https://github.com/coding-boot-camp/friendly-parakeet
 
 # Finished Product
-[Password Generator]
+[https://grech17.github.io/password-generator-week-3/]
 
 
 
